@@ -5,7 +5,12 @@
 Install Git, not GitHub Desktop
 
 Useful links:
-- Configure GitHub for Rstudio https://gist.github.com/Z3tt/3dab3535007acf108391649766409421
+- Configure GitHub for Rstudio
+
+https://gist.github.com/Z3tt/3dab3535007acf108391649766409421
+
+- Installing Git
+
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 # Assignment 1 README
